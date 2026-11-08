@@ -1,4 +1,4 @@
-# Wallet Service
+# nova-wallet
 
 A simple wallet system built with **NestJS**, **TypeORM**, and **PostgreSQL**.
 
